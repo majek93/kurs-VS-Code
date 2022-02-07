@@ -16,7 +16,7 @@
   "editor.cursorBlinking": "expand",  
   "workbench.iconTheme": "material-icon-theme",
   "security.workspace.trust.enabled": false,
-  "breadcrumbs.enabled": false
+  "breadcrumbs.enabled": false,
   
   
   "editor.bracketPairColorization.enabled": true,
