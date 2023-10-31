@@ -1,6 +1,6 @@
 # Kurs Visual Studio Code
 
-**Link do bezpłatnego kursu VS Code:** https://mmcschool.pl/kursy/kurs-vscode.html
+**Link do bezpłatnego kursu VS Code:** https://mmcschool.pl/kurs-visual-studio-code/
 
 
 ## Lista ustawień: 
